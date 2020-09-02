@@ -43,7 +43,7 @@ social:
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:dana.berman@mail.mcgill.ca".
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.linkedin.com/in/dana-berman-b877551ab/
 - icon: github
   icon_pack: fab
