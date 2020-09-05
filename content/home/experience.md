@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Undergraduate Researh=ch Assistant"
+  title = "Undergraduate Research Assistant"
   company = "Concordia University"
   company_url = ""
   location = "Montreal"
