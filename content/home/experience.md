@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Teaching Assistant"
+  company = "McGill University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
+  location = "Montreal"
+  date_start = "2018-09-04"
+  date_end = "2020-04-30"
+  description = "I was a teaching assistant for Analysis 1 (Math 242), Honours Analysis 1 (Math 254) and Honours Analysis 2 (Math 255) at McGill university. Other than the usual responsibilities, I provided notes for my tutorial sessions.""
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Giving lessons
+  * Grading exams
+  * Preparing notes
   """
+  - icon: book-open
+  icon_pack: ai
+  link: https://cs.mcgill.ca/~dberma3/notes/255tutnotes.pdf
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Undergraduate Researh=ch Assistant"
+  company = "Concordia University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Montreal"
+  date_start = "2017-08-25"
+  date_end = "2017-05-05"
+  description = """I undertook an undergraduate research project in analytic number theory un- der the supervision of Professor Chantal David.  rough-out this project, I studied basic properties of the p-adic numbers, and especially the relation- ship between Newton polygons and the convergence of power series over the p-adic numbers."""
 
 +++
