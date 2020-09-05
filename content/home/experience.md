@@ -25,15 +25,13 @@ date_format = "Jan 2006"
   date_start = "2018-09-04"
   date_end = "2020-04-30"
   description = "I was a teaching assistant for Analysis 1 (Math 242), Honours Analysis 1 (Math 254) and Honours Analysis 2 (Math 255) at McGill university. Other than the usual responsibilities, I provided notes for my tutorial sessions.""
+  
   Responsibilities include:
   
   * Giving lessons
   * Grading exams
   * Preparing notes
   """
-  - icon: book-open
-  icon_pack: ai
-  link: https://cs.mcgill.ca/~dberma3/notes/255tutnotes.pdf
 
 [[experience]]
   title = "Undergraduate Researh=ch Assistant"
