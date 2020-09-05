@@ -30,8 +30,7 @@ date_format = "Jan 2006"
   
   * Giving lessons
   * Grading exams
-  * Preparing notes
-  """
+  * Preparing notes"""
 
 [[experience]]
   title = "Undergraduate Researh=ch Assistant"
