@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Montreal"
   date_start = "2018-09-04"
   date_end = "2020-04-30"
-  description = """I was a teaching assistant for Analysis 1 (Math 242), Honours Analysis 1 (Math 254) and Honours Analysis 2 (Math 255) at McGill university. Other than the usual responsibilities, I provided notes for my tutorial sessions. Responsibilities include:
+  description = """I was a teaching assistant for Analysis 1 (Math 242), Honours Analysis 1 (Math 254) and Honours Analysis 2 (Math 255) at McGill university. Other than the usual responsibilities, I provided notes for my tutorial sessions (see, for instance, [here](https://cs.mcgill.ca/~dberma3/notes/255tutnotes.pdf)). Responsibilities include:
   * Giving lessons
   * Grading exams
   * Preparing notes
@@ -37,6 +37,6 @@ date_format = "Jan 2006"
   location = "Montreal"
   date_start = "2017-08-25"
   date_end = "2017-05-05"
-  description = """I undertook an undergraduate research project in analytic number theory un- der the supervision of Professor Chantal David.  rough-out this project, I studied basic properties of the p-adic numbers, and especially the relation- ship between Newton polygons and the convergence of power series over the p-adic numbers."""
+  description = """I undertook an undergraduate research project in analytic number theory under the supervision of Professor Chantal David.  rough-out this project, I studied basic properties of the p-adic numbers, and especially the relationship between Newton polygons and the convergence of power series over the p-adic numbers."""
 
 +++
